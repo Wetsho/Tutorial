@@ -7,21 +7,15 @@ html>
 <head>
 
 <title>CSS Font Activity</title>
-
-<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-
-</head>
-
 <style>
-  h1 {
+h1 {
 
 font-size: 3em;
 
 font-family: georgia, serif;
 
 }
-
-  h2 {
+h2 {
 
 font-size: 1.5em;
 
@@ -30,8 +24,15 @@ font-family: arial, helvetica, sans-serif;
 }
 
 
+
+
   
 </style>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+
+</head>
+
+
 
 <body>
 
