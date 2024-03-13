@@ -12,6 +12,27 @@ html>
 
 </head>
 
+<style>
+  h1 {
+
+font-size: 3em;
+
+font-family: georgia, serif;
+
+}
+
+  h2 {
+
+font-size: 1.5em;
+
+font-family: arial, helvetica, sans-serif;
+
+}
+
+
+  
+</style>
+
 <body>
 
 <h1>Using CSS for Type Design</h1>
