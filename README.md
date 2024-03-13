@@ -5,8 +5,8 @@ html>
 <html>
 
 <head>
-
 <title>CSS Font Activity</title>
+  
 <style>
 h1 {
 
@@ -24,9 +24,6 @@ font-family: arial, helvetica, sans-serif;
 }
 
 
-
-
-  
 </style>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 
